@@ -1,3 +1,5 @@
+package java_loop_I;
+
 import java.io.IOException;
 import java.util.Scanner;
 
